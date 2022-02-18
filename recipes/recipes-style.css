@@ -1,0 +1,30 @@
+h1,
+h2,
+h3,
+li,
+a {
+  font-family: Helvetica, sans-serif;
+  padding: 5px;
+}
+
+body {
+  background-color: rgb(255, 255, 244);
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  background: aquamarine;
+}
+
+h3 {
+  background: rgb(224, 255, 245);
+}
+
+.link-voltar {
+  padding: 5px;
+  font-size: 1.5em;
+  margin-left: 20px;
+}
